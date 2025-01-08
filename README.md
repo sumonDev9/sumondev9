@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Sumon Mitra</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Sumon+Mitra+%F0%9F%91%8B;Frontend+Developer;Aspiring+Full-Stack+Developer+%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
 
 ###
 
